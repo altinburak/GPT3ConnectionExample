@@ -1,7 +1,10 @@
-# GPT3ConnectionExample
-GPT-3 Connection Example
+# Chat GPT - GPT3 ConnectionExample
+Chat GPT - GPT3 Connection Example
 
-You can use this example to connect GPT-3 and read the result.
+You can use this example to connect Chat GPT and get the result.
 
-I leave how to use the result to your imagination.
+It been added console version of the ChatGPT's web interface.
 
+You can use this example by changing the API Key.
+
+To find your API Key, go to https://beta.openai.com/account/api-keys

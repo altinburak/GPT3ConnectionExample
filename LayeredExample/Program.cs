@@ -4,8 +4,8 @@ using LayeredExample.DataAccessLayer;
 using LayeredExample.PresentationLayer;
 
 
-
-string apiKey = "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";
+// you can find your API key at https://beta.openai.com/account/api-keys
+string apiKey = "Your API Key";
 
 // Create an instance of the chatbot layer
 IChatbot chatbot = new Chatbot(apiKey);

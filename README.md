@@ -1,5 +1,5 @@
-# Chat GPT - GPT3 ConnectionExample
-Chat GPT - GPT3 Connection Example
+# Chat GPT - GPT3 Connection Example with C#
+Chat GPT - GPT3 Connection Example with C#
 
 You can use this example to connect Chat GPT and get the result.
 
